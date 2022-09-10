@@ -1,0 +1,6 @@
+ MTA   (Mail Transfer Agent)    kapa stexcum mail serverneri mijev
+ MDA   (Mail Delivery Agent)    uxarkuma stacac mailery tvyal imap kam pop3 
+ MUA   (Mail User Agent)       da programannern en voronq klinetnery tesnum en namakney kam uxarkuma
+ 
+ ================================================================================================================
+ 
